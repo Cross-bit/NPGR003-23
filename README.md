@@ -63,9 +63,9 @@ group (and you'll get extra credit for doing so).
   the original repository, you won't have write permissions to it!
 * Your repositories should remain **private**, you have to grant
   R/O permission to your lab supervisor:
-  * Josef Pelik·n - [GitHub link](https://github.com/pepcape),
+  * Josef Pelik√°n - [GitHub link](https://github.com/pepcape),
 	[GitLab link](https://gitlab.mff.cuni.cz/pelikan)
-  * Tom·ö Iser - [GitHub link](https://github.com/tomasiser),
+  * Tom√°≈° Iser - [GitHub link](https://github.com/tomasiser),
 	[GitLab link](https://gitlab.mff.cuni.cz/isert)
 * If you want use any third party library, do it correctly and use the
   [NuGet system](https://www.nuget.org/). Many pilot projects are
